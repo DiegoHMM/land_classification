@@ -1,0 +1,6 @@
+data/
+dataset/
+TILES/
+X/
+INFERENCIA/
+best_model.pth

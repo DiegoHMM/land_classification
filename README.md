@@ -7,7 +7,7 @@ This project was developed to demonstrate how to access data cubes from the Cubo
 The UODC implementation can be found at https://github.com/DiegoHMM/cuborizonte.
 
 
-## ⚙️ Como Funciona
+## ⚙️ How It Works
 
 The workflow is orchestrated by the notebook and uses functions defined in src/utils.py. The process can be divided into the following steps:
 

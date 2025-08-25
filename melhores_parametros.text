@@ -1,0 +1,27 @@
+2007
+=========================
+=== Sumário dos Resultados ===
+=========================
+
+--- Rank 1 ---
+Hiperparâmetros: {'learning_rate': 5e-05, 'weight_decay': 0.0001, 'optimizer': 'AdamW'}
+Perda Teste: 0.5078 | IoU Teste: 0.5901
+
+--- Rank 2 ---
+Hiperparâmetros: {'learning_rate': 5e-05, 'weight_decay': 0.0001, 'optimizer': 'Adam'}
+Perda Teste: 0.5348 | IoU Teste: 0.5891
+
+--- Rank 3 ---
+Hiperparâmetros: {'learning_rate': 1e-05, 'weight_decay': 0.0001, 'optimizer': 'AdamW'}
+Perda Teste: 0.5348 | IoU Teste: 0.5790
+
+--- Rank 4 ---
+Hiperparâmetros: {'learning_rate': 1e-05, 'weight_decay': 0.0001, 'optimizer': 'Adam'}
+Perda Teste: 0.5465 | IoU Teste: 0.5737
+
+******************************
+=== Melhor Combinação Encontrada ===
+******************************
+Hiperparâmetros: {'learning_rate': 5e-05, 'weight_decay': 0.0001, 'optimizer': 'AdamW'}
+IoU Teste: 0.5901
+******************************
